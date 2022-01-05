@@ -71,7 +71,9 @@
 
 @media (max-width: 425px) {
     .main-image-info {
-        left: 18px;
+        left: 10px;
+        bottom: 10px;
+        width: 330px;
     }
 }
 
