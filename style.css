@@ -65,9 +65,9 @@
     background-color: black;
 }
 
-@media (max-width: 410px) {
+@media (max-width: 425px) {
     .main-image-info {
-        left: 10px;
+        left: 15px;
     }
 }
 
