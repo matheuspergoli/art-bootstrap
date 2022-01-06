@@ -19,23 +19,6 @@
     width: 50px;
 }
 
-#navbar {
-    height: 70px;
-    line-height: 70px;
-    text-align: center;
-}
-
-#navbar > * {
-    padding: 20px;
-    color: #333;
-    text-decoration: none;
-    transition-duration: 250ms;
-}
-
-#navbar > *:hover {
-    color: #747d8c;
-}
-
 #main-image-container {
     height: 740px;
 }
@@ -134,4 +117,30 @@
     background-size: cover;
     background-position: center;
     background-image: url(images/g_6.jpg);
+}
+
+#footer {
+    height: 250px;
+    margin-top: 45px;
+    border-top: 3px solid rgba(51, 51, 51, 0.2);
+}
+
+.col-5 {
+    margin-top: 50px;
+}
+
+.col-2 {
+    margin-top: 50px;
+}
+
+.bi.bi-facebook {
+    font-size: 25px;
+}
+
+.bi.bi-instagram {
+    font-size: 25px;
+}
+
+.bi.bi-twitter {
+    font-size: 25px;
 }
