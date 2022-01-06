@@ -125,12 +125,12 @@
     border-top: 3px solid rgba(51, 51, 51, 0.2);
 }
 
-.col-5 {
+.col-md-5 {
     margin-top: 50px;
 }
 
-.col-2 {
-    margin-top: 50px;
+.col-md-3 {
+    margin-top: 45px;
 }
 
 .bi.bi-facebook {
